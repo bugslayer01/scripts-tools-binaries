@@ -7,6 +7,8 @@ This repository contains a collection of personal scripts and binaries for vario
 
 2) [This](./Discord/discord-ping.py)  Discord Ping/Notifier [Read this](./Discord/discord-ping.md) .
 
+3) [This](./AppImage/appimage_inst.sh) make's .desktop files for your AppImages and stores then in ~home/user_name/allAppImages [Read this](./AppImage/appimage_inst.md) .
+
 ## Binary 
 1) [SSH binary for ubuntu 86_64](./Binaries/ssh)
 ---
