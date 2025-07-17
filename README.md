@@ -3,7 +3,9 @@
 This repository contains a collection of personal scripts and binaries for various automation and utility tasks.
 ---
 ## Scripts 
-1) [This](./Discord/install-discord-from-tar.md) script addresses the issue of the AUR (Arch User Repository) not always providing the latest version of Discord [Read this](./Discord/install-discord-from-tar.md) .
+1) [This](./Discord/install-discord-from-tar.sh) script addresses the issue of the AUR (Arch User Repository) not always providing the latest version of Discord [Read this](./Discord/install-discord-from-tar.md) .
+
+2) [This](./Discord/discord-ping.py)  Discord Ping/Notifier [Read this](./Discord/discord-ping.md) .
 
 ## Binary 
 1) [SSH binary for ubuntu 86_64](./Binaries/ssh)
